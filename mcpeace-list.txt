@@ -5,7 +5,6 @@
 avgle.com###blocked-if
 avgle.com###aoverlay
 avgle.com###player_3x2_container
-avgle.com##script:contains(ExoLoader.serve)
 ||avgle.com/avideos.js$script,first-party
 ||avgle.com/avideos.php$script,first-party
 ||methinkinge.com
