@@ -14,6 +14,7 @@
 ||partlepool.com
 ||hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
+||www.kisscosplay.moe^$inline-script
 @@||lihkg.com^$image,domain=ir0.mobify.com
 ##a[href^="http://www.poweredbyliquidfire.mobi/redirect"]
 www.wnacg.org###img_list > div > img:style(width: 600px !important)
