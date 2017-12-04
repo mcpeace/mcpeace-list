@@ -7,7 +7,6 @@ avgle.com###aoverlay
 avgle.com###player_3x2_container
 ||methinkinge.com
 ||methinkinge.com^$popup
-*$script,domain=methinkinge.com
 ||credishe.com
 ||jerwested.info
 ||roletaryk.info
