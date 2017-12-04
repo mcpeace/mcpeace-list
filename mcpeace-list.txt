@@ -3,16 +3,16 @@
 ! Author: mcpeace | https://github.com/mcpeace/mcpeace-adblock-filter-list
 ! Version: 0.1
 ||avgle.com^$popup
-||avgle.com###blocked-if
-||avgle.com###aoverlay
-||avgle.com###player_3x2_container
+avgle.com###blocked-if
+avgle.com###aoverlay
+avgle.com###player_3x2_container
 ||credishe.com
 ||jerwested.info
 ||roletaryk.info
 ||xml.explorads.com
 ||syndication.exosrv.com
 ||partlepool.com
-||hdjavonline.com###overlay-advertising
+hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
 ||kisscosplay.moe^$inline-script,first-party
 kisscosplay.moe###h235
