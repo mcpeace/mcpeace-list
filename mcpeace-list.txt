@@ -15,6 +15,7 @@ avgle.com###player_3x2_container
 ||xml.explorads.com
 ||syndication.exosrv.com
 ||partlepool.com
+||adserver.juicyads.com
 hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
 ||kisscosplay.moe^$inline-script,first-party
