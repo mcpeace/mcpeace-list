@@ -2,12 +2,11 @@
 ! Title: mcpeace-adblock-filter-list
 ! Author: mcpeace | https://github.com/mcpeace/mcpeace-adblock-filter-list
 ! Version: 0.1
-||avgle.com^$popup
-||avgle.com^$popup,doamin=methinkinge.com
 avgle.com###blocked-if
 avgle.com###aoverlay
 avgle.com###player_3x2_container
 ||methinkinge.com
+||methinkinge.com^$popup
 *$script,domain=methinkinge.com
 ||credishe.com
 ||jerwested.info
