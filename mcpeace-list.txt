@@ -14,7 +14,9 @@ avgle.com###player_3x2_container
 ||roletaryk.info
 ||xml.explorads.com
 ||syndication.exosrv.com
+||syndication.exosrv.com^$popup
 ||partlepool.com
+||partlepool.com^$popup
 ||adserver.juicyads.com
 hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
