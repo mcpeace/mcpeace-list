@@ -13,7 +13,6 @@ avgle.com##div.well > center
 avgle.com##div> div > center
 ||*$popup,domain=avgle.com
 ||*$popunder,domain=avgle.com
-||*$third-party,domain=avgle.com
 ||avgle.com/avideos.js
 ||avgle.com/avideos.php
 ||boudja.com
