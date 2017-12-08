@@ -6,9 +6,8 @@ avgle.com###blocked-if
 avgle.com###aoverlay
 avgle.com###player_3x2_container
 avgle.com##a[href*="bit.ly"]
-avgle.com##script:contains(ExoLoader.serve)
-avgle.com##script:contains(ExoLoader.addZone)
-avgle.com##script[async]
+avgle.com##script:inject(abort-on-property-read.js, open)
+avgle.com##script:inject(abort-current-inline-script.js, ExoLoader)
 avgle.com##div.well > center
 avgle.com##div> div > center
 ||*$popup,domain=avgle.com
