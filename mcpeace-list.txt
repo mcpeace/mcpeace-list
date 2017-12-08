@@ -6,9 +6,14 @@ avgle.com###blocked-if
 avgle.com###aoverlay
 avgle.com###player_3x2_container
 avgle.com##a[href*="bit.ly"]
+avgle.com##a[href*="bit.ly"]
+avgle.com##script:contains(ExoLoader)
+avgle.com##script[async]
 ||*^$popup,domain=avgle.com
 ||*^$popunder,domain=avgle.com
 ||avgle.com/avideos.js
+||avgle.com/avideos.php
+||*.ahcdn.com^
 ||boudja.com
 ||methinkinge.com
 ||credishe.com
