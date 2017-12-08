@@ -9,6 +9,7 @@ avgle.com##a[href*="bit.ly"]
 avgle.com##script:contains(ExoLoader.serve)
 avgle.com##script:contains(ExoLoader.addZone)
 avgle.com##script[async]
+avgle.com##link[rel="preconnect"]
 avgle.com##div.well > center
 avgle.com##div> div > center
 ||*^$popup,domain=avgle.com
@@ -23,8 +24,10 @@ avgle.com##div> div > center
 ||xml.explorads.com
 ||syndication.exosrv.com
 ||partlepool.com
+||glorinlost.info
 ||adserver.juicyads.com
 ||moggattice.com
+||roletaryk.info
 hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
 kisscosplay.moe###h235
