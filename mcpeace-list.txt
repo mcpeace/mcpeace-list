@@ -18,12 +18,12 @@ avgle.com##div> div > center
 ||methinkinge.com
 ||credishe.com
 ||jerwested.info
-||xml.explorads.com
+||explorads.com
 ||exosrv.com
 ||histats.com
 ||partlepool.com
 ||glorinlost.info
-||adserver.juicyads.com
+||juicyads.com
 ||moggattice.com
 ||roletaryk.info
 ||isafe.pro^$image,domain=avgle.com
