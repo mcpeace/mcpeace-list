@@ -7,6 +7,9 @@ avgle.com###aoverlay
 avgle.com###player_3x2_container
 ||*^$popup,domain=avgle.com
 ||*^$popunder,domain=avgle.com
+||avgle.com/avideos.js$script,first-party
+||avgle.com^$third-party
+||boudja.com
 ||methinkinge.com
 ||credishe.com
 ||jerwested.info
