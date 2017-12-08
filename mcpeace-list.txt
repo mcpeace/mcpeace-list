@@ -9,7 +9,6 @@ avgle.com##a[href*="bit.ly"]
 avgle.com##script:contains(ExoLoader.serve)
 avgle.com##script:contains(ExoLoader.addZone)
 avgle.com##script[async]
-avgle.com##link[rel="preconnect"]
 avgle.com##div.well > center
 avgle.com##div> div > center
 ||*^$popup,domain=avgle.com
