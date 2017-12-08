@@ -21,7 +21,8 @@ avgle.com##div> div > center
 ||jerwested.info
 ||roletaryk.info
 ||xml.explorads.com
-||syndication.exosrv.com
+||exosrv.com
+||histats.com
 ||partlepool.com
 ||glorinlost.info
 ||adserver.juicyads.com
