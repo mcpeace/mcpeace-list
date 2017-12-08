@@ -1,6 +1,6 @@
 [mcpeace adblock filter list]
 ! Title: mcpeace-list
-! Author: mcpeace | https://github.com/mcpeace/mcpeace-adblock-filter-list
+! Author: mcpeace | hhttps://github.com/mcpeace/mcpeace-list
 ! Version: 0.1
 avgle.com###blocked-if
 avgle.com###aoverlay
