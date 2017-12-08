@@ -27,6 +27,7 @@ avgle.com##div> div > center
 ||adserver.juicyads.com
 ||moggattice.com
 ||roletaryk.info
+||isafe.pro^$image,domain=avgle.com
 hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
 kisscosplay.moe###h235
