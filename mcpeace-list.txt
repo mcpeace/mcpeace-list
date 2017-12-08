@@ -13,7 +13,6 @@ avgle.com##script[async]
 ||*^$popunder,domain=avgle.com
 ||avgle.com/avideos.js
 ||avgle.com/avideos.php
-||*.ahcdn.com^
 ||boudja.com
 ||methinkinge.com
 ||credishe.com
