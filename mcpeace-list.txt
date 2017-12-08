@@ -6,9 +6,10 @@ avgle.com###blocked-if
 avgle.com###aoverlay
 avgle.com###player_3x2_container
 avgle.com##a[href*="bit.ly"]
-avgle.com##a[href*="bit.ly"]
 avgle.com##script:contains(ExoLoader)
 avgle.com##script[async]
+avgle.com##div.well > center
+avgle.com##div> div > center
 ||*^$popup,domain=avgle.com
 ||*^$popunder,domain=avgle.com
 ||avgle.com/avideos.js
