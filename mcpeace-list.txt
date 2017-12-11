@@ -29,6 +29,7 @@ avgle.com##div> div > center
 ||isafe.pro^$image,domain=avgle.com
 hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
+||kisscosplay.moe,apk.tw##script:inject(uabinject-defuser.js)
 kisscosplay.moe###h235
 @@||lihkg.com^$image,domain=ir0.mobify.com
 ##a[href^="http://www.poweredbyliquidfire.mobi/redirect"]
