@@ -36,3 +36,4 @@ kisscosplay.moe###h235
 wnacg.org###imgarea > a > img:style(max-width: 700px !important)
 ||myself-bbs.com/source/plugin/uauc_anti_adblock/*$script
 ||atas.io
+video.520cc.cc###inplayer
