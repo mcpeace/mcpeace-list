@@ -43,4 +43,4 @@ video.520cc.cc###inplayer
 @@||eprice.com.hk##.one-ad^$important
 ||mhwg.org^$inline-script,first-party
 www.javlibrary.com##body > div:nth-of-type(6)
-@@||www.viu.com/ott/hk/v1/js/tracking/*$script,first-party
+@@||www.viu.com/ott/hk/v1/js/tracking/*$script,domain=www.viu.com
