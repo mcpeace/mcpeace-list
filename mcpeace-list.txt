@@ -2,45 +2,11 @@
 ! Title: mcpeace-list
 ! Author: mcpeace | hhttps://github.com/mcpeace/mcpeace-list
 ! Version: 0.1
-avgle.com###blocked-if
-avgle.com###aoverlay
-avgle.com###player_3x2_container
-avgle.com##a[href*="bit.ly"]
-avgle.com##script:inject(abort-on-property-read.js, open)
-avgle.com##script:inject(abort-current-inline-script.js, ExoLoader)
-avgle.com##div.well > center
-avgle.com##div> div > center
-||*$popup,domain=avgle.com
-||*$popunder,domain=avgle.com
-||avgle.com/avideos.js
-||avgle.com/avideos.php
-||boudja.com
-||methinkinge.com
-||credishe.com
-||jerwested.info
-||explorads.com
-||exosrv.com
-||histats.com
-||partlepool.com
-||glorinlost.info
-||juicyads.com
-||moggattice.com
-||roletaryk.info
-||isafe.pro^$image,domain=avgle.com
-hdjavonline.com###overlay-advertising
 ||openload.co/assets/js/script.$domain=openload.co
-||kisscosplay.moe,apk.tw##script:inject(uabinject-defuser.js)
-kisscosplay.moe###h235
 @@||lihkg.com^$image,domain=ir0.mobify.com
 ##a[href^="http://www.poweredbyliquidfire.mobi/redirect"]
 wnacg.org###imgarea > a > img:style(max-width: 700px !important)
 ||myself-bbs.com/source/plugin/uauc_anti_adblock/*$script
-||atas.io
-video.520cc.cc###inplayer
-jav777.cc##.ui-widget-overlay
-jav777.cc##.ui-dialog
-video.520cc.cc###inplayer
 @@||eprice.com.hk##.one-ad^$important
 ||mhwg.org^$inline-script,first-party
-www.javlibrary.com##body > div:nth-of-type(6)
 @@||www.viu.com/ott/hk/v1/js/tracking/*$script,domain=www.viu.com
