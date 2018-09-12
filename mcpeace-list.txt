@@ -16,3 +16,4 @@ hk.godaddy.com##.ui-widget-overlay
 hk.godaddy.com##.lia-panel-dialog-content-type-ajax.ui-widget-content.ui-dialog-content.lia-panel-dialog-content
 novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 @@||viu.tv/assets/*$script,first-party
+||asianclub.tv^$popup
