@@ -17,5 +17,3 @@ hk.godaddy.com##.lia-panel-dialog-content-type-ajax.ui-widget-content.ui-dialog-
 novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 @@||viu.tv/assets/*$script,first-party
 ||asianclub.tv^$popup
-outlook.live.com##._n_h
-outlook.live.com###primaryContainer div:last-child:style(right:0 !important)
