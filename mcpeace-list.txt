@@ -20,3 +20,4 @@ novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 ||myezt1q2il.com
 ||vidoza.net/js/ads.js
 ||popjav.tv/basset/js/vast.js
+@@||static.qiyi.com/css/*$stylesheet,domain=so.tw.iqiyi.com
