@@ -21,3 +21,5 @@ novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 ||vidoza.net/js/ads.js
 ||popjav.tv/basset/js/vast.js
 @@||static.qiyi.com/css/*$stylesheet,domain=so.tw.iqiyi.com
+||avjuicy.com###iframeContainer2 > div:nth-of-type(3)
+||avjuicy.com###LayoutTop > div:nth-of-type(1)
