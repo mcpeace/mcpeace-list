@@ -27,3 +27,4 @@ novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 ||myezt1q2il.com
 ||vidoza.net/js/ads.js
 ||explodeviews.github.io
+||jpmusicdl.com/wp-content/plugins/simple-adblock-notice/*$first-party
