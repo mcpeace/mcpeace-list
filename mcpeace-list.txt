@@ -28,3 +28,4 @@ novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 ||vidoza.net/js/ads.js
 ||explodeviews.github.io
 ||jpmusicdl.com/wp-content/plugins/simple-adblock-notice/*$first-party
+||music-jpop.com/wp-content/plugins/simple-adblock-notice/*$first-party
