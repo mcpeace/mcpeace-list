@@ -28,3 +28,5 @@ novetty.zooextension.com##._show.modal-slide.zoo-newsletter-popup.modal-popup
 ||vidoza.net/js/ads.js
 ||explodeviews.github.io
 ||music-jpop.com/wp-content/plugins/simple-adblock-notice/*$first-party
+||outlook.live.com###app > div > div:last-child > div:first-child > div:first-child > div:nth-child(4)
+||outlook.live.com###app > div > div:nth-child(3) > div:first-child > div:first-child > div:first-child > div:nth-child(2) > div > div:nth-child(2)
